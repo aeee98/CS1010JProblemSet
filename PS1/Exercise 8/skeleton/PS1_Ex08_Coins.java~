@@ -1,0 +1,24 @@
+/*
+ * CS1010J Programming Methodology
+ * Problem Set 1 Exercise #08: PS1_Ex08_Coins.java
+ * 
+ * <Fill in a short description of this program>
+ * 
+ * 
+ * <Type your name here>
+ */
+
+
+
+class Coins {
+  
+  public static void main(String[] args) {
+    
+    
+    
+    System.out.print("Enter amount in cents: ");
+    
+    
+    System.out.println("Minimum number of coins needed: ");
+  }
+}
